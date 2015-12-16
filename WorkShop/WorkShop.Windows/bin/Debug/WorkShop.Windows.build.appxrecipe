@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOSHIBA</Machine>
+    <WindowsUser>TOSHIBA-PC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6a8097a0-4532-4f8e-a576-24fc8a56eed6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\WorkShop.Windows.exe">
+      <PackagePath>WorkShop.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\84ab764df36b651c41de8a27b406701b.jpg">
+      <PackagePath>Assets\84ab764df36b651c41de8a27b406701b.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\Choper Motorcycle  Modification 1.jpg">
+      <PackagePath>Assets\Choper Motorcycle  Modification 1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\WorkShop.Windows.xr.xml">
+      <PackagePath>WorkShop.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop\WorkShop.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
