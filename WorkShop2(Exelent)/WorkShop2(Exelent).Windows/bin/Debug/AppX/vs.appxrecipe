@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOSHIBA</Machine>
+    <WindowsUser>TOSHIBA-PC</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ef44f9e1-9a5c-45e2-9c94-9b600e24a703</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C7143B4204C51865E9783A97227A7D12C3F48348BDE0FF16C067726AA21BB808</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ef44f9e1-9a5c-45e2-9c94-9b600e24a703_1.0.0.0_neutral__xr319sg8ntjj4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ef44f9e1-9a5c-45e2-9c94-9b600e24a703_xr319sg8ntjj4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ef44f9e1-9a5c-45e2-9c94-9b600e24a703</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TOSHIBA-PC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-16T18:47:12.243</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\WorkShop2%28Exelent%29.Windows.exe">
+      <PackagePath>WorkShop2%28Exelent%29.Windows.exe</PackagePath>
+      <Modified>2015-12-16T22:31:55.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\WorkShop2%28Exelent%29.Windows.xr.xml">
+      <PackagePath>WorkShop2%28Exelent%29.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-16T22:27:54.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-16T22:31:55.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-16T22:31:55.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TOSHIBA-PC\Desktop\Windows Apps\Projects\HintsAndPractise\WorkShop2%28Exelent%29\WorkShop2%28Exelent%29.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-16T18:47:11.561</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
